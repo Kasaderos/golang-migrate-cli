@@ -1,0 +1,10 @@
+{
+    "migrations_url": "file:///home/kasaderos/go/src/git.dar.kz/forte-market/merchants-api/internal/app/migrations/testmigrations",
+    "postgres": {
+        "host": "localhost",
+        "port": "5432",
+        "user": "postgres",
+        "password": "passwd",
+        "db": "postgres"
+    }
+}
